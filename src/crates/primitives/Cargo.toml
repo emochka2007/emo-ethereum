@@ -1,0 +1,8 @@
+[package]
+name = "primitives"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+primitives-traits = {path = "../primitives-traits"}
+alloy-primitives = {path = "../alloy-primitives"}
